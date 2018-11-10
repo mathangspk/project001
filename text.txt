@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello Kitty!!!
+=======
+>>>>>>> parent of 3fa770a... Thêm nội dung hello world
 =======
 >>>>>>> parent of 3fa770a... Thêm nội dung hello world
